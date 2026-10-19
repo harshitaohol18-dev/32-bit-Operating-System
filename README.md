@@ -1,4 +1,4 @@
-32-BIT PROTECTED-MODE OPERATING SYSTEM: ADVANCED + AI EDITION
+ BUILT A 32-BIT PROTECTED-MODE OPERATING SYSTEM: ADVANCED + AI EDITION
 =============================================================
 
 An educational 32-bit x86 operating system written in C/C++ and NASM assembly. It covers the core of a Unix-like kernel: protected mode, ring 3 user processes, paging, a heap allocator, process management with fork(), IPC, authentication and file permissions, a persistent filesystem, an interactive shell, and four CPU scheduling policies, including an AI-adaptive Round Robin scheduler that picks each process's time quantum from a classified workload type.
